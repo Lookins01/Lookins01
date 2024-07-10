@@ -1,5 +1,5 @@
 <p align=center>
-  <img src="./assets/only_god_know.png" width="640">
+  <img src="./assets/only_god_know.png" width="426">
 </p>
 
 <!--
